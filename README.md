@@ -20,28 +20,28 @@ e não reincidentes, evidenciando o percentual predominante onde a maioria dos d
 Análises exploratórias
 
 score de periculosidade
-Média: 174.5205
-1° quartil: 155.6975
-mediana: 177.21
-3° quartil: 191.12
-variância: 660.5837
-desvio padrão: 25.70182
+Média: 174.5205,
+1° quartil: 155.6975,
+mediana: 177.21,
+3° quartil: 191.12,
+variância: 660.5837,
+desvio padrão: 25.70182,
 amplitude: 156.02
 
 Idade
-Média: 50.915
-1° quartil: 34
-mediana: 52
-3° quartil: 64.25
-variância: 374.0782
-desvio padrão: 19.3411
+Média: 50.915,
+1° quartil: 34,
+mediana: 52,
+3° quartil: 64.25,
+variância: 374.0782,
+desvio padrão: 19.3411,
 amplitude: 79
 
 Tempo preso
-Média: 60.585
-1° quartil: 53.75
-mediana: 60.5
-3° quartil: 67
-variância: 99.08822
-desvio padrão: 9.954306
+Média: 60.585,
+1° quartil: 53.75,
+mediana: 60.5,
+3° quartil: 67,
+variância: 99.08822,
+desvio padrão: 9.954306,
 amplitude: 51
